@@ -1,0 +1,27 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SufficientPurpose"
+  },
+  "author": "kanasia hursey",
+  "license": "ISC",
+  "description": "team profile summary",
+  "dependencies": {
+    "json": "^10.0.0",
+    "package": "^1.0.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "employee",
+    "intern",
+    "manager",
+    "engineer"
+  ]
+}
